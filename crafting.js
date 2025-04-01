@@ -70,7 +70,7 @@ const recipes = {
     },
     "pickaxe11" : {
         name : "Whirlpool of Fate",
-        recipe : [{ore:"🌊", amt:2250000},{ore:"🔴", amt:1200000},{ore:"◽", amt:45000},{ore:"🟨", amt:530},{ore:"🔻", amt:100},{ore:"🔶", amt:47},{ore:"⛵", amt:32},{ore:"🎣", amt:31},{ore:"🤿", amt:30},{ore:"🫧", amt:30},{ore:"🐟", amt:10},{ore:"👑", amt:4},{ore:"🔱", amt:4},{ore:"🌀", amt:1},{ore:"👿", amt:1},{ore:"🪩", amt:1},{ore:"💫", amt:1}],
+        recipe : [{ore:"🌊", amt:2250000},{ore:"🔴", amt:120000},{ore:"◽", amt:45000},{ore:"🟨", amt:530},{ore:"🔻", amt:100},{ore:"🔶", amt:47},{ore:"⛵", amt:32},{ore:"🎣", amt:31},{ore:"🤿", amt:30},{ore:"🫧", amt:30},{ore:"🐟", amt:10},{ore:"👑", amt:4},{ore:"🔱", amt:4},{ore:"🌀", amt:1},{ore:"👿", amt:1},{ore:"🪩", amt:1},{ore:"💫", amt:1}],
         active : [],
     },
     "pickaxe12" : {
