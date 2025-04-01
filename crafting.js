@@ -70,57 +70,57 @@ const recipes = {
     },
     "pickaxe11" : {
         name : "Whirlpool of Fate",
-        recipe : [{ore:"🌊", amt:225000000},{ore:"🔴", amt:1200000},{ore:"◽", amt:450000},{ore:"🟨", amt:5300},{ore:"🔻", amt:1000},{ore:"🔶", amt:470},{ore:"⛵", amt:325},{ore:"🎣", amt:315},{ore:"🤿", amt:300},{ore:"🫧", amt:300},{ore:"🐟", amt:100},{ore:"👑", amt:40},{ore:"🔱", amt:35},{ore:"🌀", amt:5},{ore:"👿", amt:4},{ore:"🪩", amt:3},{ore:"💫", amt:1}],
+        recipe : [{ore:"🌊", amt:2250000},{ore:"🔴", amt:1200000},{ore:"◽", amt:45000},{ore:"🟨", amt:530},{ore:"🔻", amt:100},{ore:"🔶", amt:47},{ore:"⛵", amt:32},{ore:"🎣", amt:31},{ore:"🤿", amt:30},{ore:"🫧", amt:30},{ore:"🐟", amt:10},{ore:"👑", amt:4},{ore:"🔱", amt:4},{ore:"🌀", amt:1},{ore:"👿", amt:1},{ore:"🪩", amt:1},{ore:"💫", amt:1}],
         active : [],
     },
     "pickaxe12" : {
         name : "Wings of Glory",
-        recipe : [{ore:"🧱", amt:150000000},{ore:"🪨", amt:150000000},{ore:"🌫️", amt:150000000},{ore:"🔵", amt:8000000},{ore:"🟠", amt:4000000},{ore:"⚫", amt:1230000},{ore:"🧧", amt:390000},{ore:"🟦", amt:22900},{ore:"🔺", amt:1900},{ore:"💚", amt:1500},{ore:"🤍", amt:750},{ore:"🧵", amt:70},{ore:"❄️", amt:40},{ore:"🥉", amt:35},{ore:"🧊", amt:25},{ore:"💸", amt:20},{ore:"👁️", amt:7},{ore:"🌈", amt:5},{ore:"🌇", amt:3}],
+        recipe : [{ore:"🧱", amt:1500000},{ore:"🪨", amt:1500000},{ore:"🌫️", amt:1500000},{ore:"🔵", amt:80000},{ore:"🟠", amt:400000},{ore:"⚫", amt:123000},{ore:"🧧", amt:39000},{ore:"🟦", amt:2290},{ore:"🔺", amt:190},{ore:"💚", amt:150},{ore:"🤍", amt:75},{ore:"🧵", amt:7},{ore:"❄️", amt:4},{ore:"🥉", amt:4},{ore:"🧊", amt:3},{ore:"💸", amt:2},{ore:"👁️", amt:1},{ore:"🌈", amt:1},{ore:"🌇", amt:1}],
         active : [],
     },
     "pickaxe13" : {
         name : "The Key",
-        recipe :  [{ore:"🟫", amt:10000000},{ore:"🧱", amt:10000000},{ore:"🌫️", amt:10000000},{ore:"🌊", amt:10000000},{ore:"🪨", amt:10000000},{ore:"☢️", amt:10000000},{ore:"🌵", amt:10000000},{ore:"📰", amt:10000000},{ore:"🌏", amt:1},{ore:"🔩", amt:1},{ore:"🧵", amt:1},{ore:"🌀", amt:1},{ore:"❄️", amt:1},{ore:"🥀", amt:1},{ore:"🔥", amt:1},{ore:"📝", amt:1}],
+        recipe :  [{ore:"🟫", amt:1000000},{ore:"🧱", amt:1000000},{ore:"🌫️", amt:1000000},{ore:"🌊", amt:1000000},{ore:"🪨", amt:1000000},{ore:"☢️", amt:1000000},{ore:"🌵", amt:1000000},{ore:"📰", amt:1000000},{ore:"🌏", amt:1},{ore:"🔩", amt:1},{ore:"🧵", amt:1},{ore:"🌀", amt:1},{ore:"❄️", amt:1},{ore:"🥀", amt:1},{ore:"🔥", amt:1},{ore:"📝", amt:1}],
         active : [],
     },
     "pickaxe14" : {
         name : "Extreme Echolocator",
-        recipe : [{ore:"📺", amt:50000},{ore:"🔃", amt:500},{ore:"↘️", amt:10},{ore:"⏬", amt:1},],
+        recipe : [{ore:"📺", amt:5000},{ore:"🔃", amt:50},{ore:"↘️", amt:1},{ore:"⏬", amt:1},],
         active : []
     },
     "pickaxe15" : {
         name : "Corundum Caver",
-        recipe : [{ore:"🚪", amt:400000},{ore:"🔁", amt:1800},{ore:"⬇️", amt:150},{ore:"⏫", amt:18},{ore:"▶️", amt:1},],
+        recipe : [{ore:"🚪", amt:40000},{ore:"🔁", amt:180},{ore:"⬇️", amt:15},{ore:"⏫", amt:2},{ore:"▶️", amt:1},],
         active : []
     },
     "pickaxe16" : {
         name : "Starborne Slasher",
-        recipe : [{ore:"🌐", amt:1000000},{ore:"⤵️", amt:1900},{ore:"↪️", amt:960},{ore:"🔽", amt:95},{ore:"⏮️", amt:15},{ore:"📕", amt:1},],
+        recipe : [{ore:"🌐", amt:100000},{ore:"⤵️", amt:190},{ore:"↪️", amt:96},{ore:"🔽", amt:9},{ore:"⏮️", amt:2},{ore:"📕", amt:1},],
         active : []
     },
     "pickaxe17" : {
         name : "Nyabomb",
-        recipe : [{ore:"♟️", amt:3000000},{ore:"🔂", amt:16000},{ore:"⏺️", amt:40},{ore:"⏏️", amt:10},{ore:"📗", amt:5},{ore:"📘", amt:3},{ore:"✏️", amt:1},],
+        recipe : [{ore:"♟️", amt:300000},{ore:"🔂", amt:1600},{ore:"⏺️", amt:4},{ore:"⏏️", amt:1},{ore:"📗", amt:1},{ore:"📘", amt:1},{ore:"✏️", amt:1},],
         active : []
     },
     "pickaxe18" : {
         name : "Lunar Lightsabre",
-        recipe : [{ore:"☁️", amt:7500000},{ore:"⬅️", amt:6000},{ore:"↖️", amt:1300},{ore:"➡️", amt:1150},{ore:"📙", amt:6},{ore:"🌧️", amt:2},{ore:"🌤️", amt:1},],
+        recipe : [{ore:"☁️", amt:750000},{ore:"⬅️", amt:600},{ore:"↖️", amt:130},{ore:"➡️", amt:115},{ore:"📙", amt:1},{ore:"🌧️", amt:1},{ore:"🌤️", amt:1},],
         active : []
     },
     "pickaxe19" : {
         name : "Gemstone Engraver",
-        recipe : [{ore:"♟️", amt:12500000},{ore:"⬆️", amt:9750},{ore:"◀️", amt:1200},{ore:"⏯️", amt:275},{ore:"⏸️", amt:130},{ore:"📗", amt:15},{ore:"🧠", amt:2},{ore:"📐", amt:1},],
+        recipe : [{ore:"♟️", amt:1250000},{ore:"⬆️", amt:975},{ore:"◀️", amt:120},{ore:"⏯️", amt:27},{ore:"⏸️", amt:13},{ore:"📗", amt:2},{ore:"🧠", amt:1},{ore:"📐", amt:1},],
         active : []
     },
     "pickaxe20" : {
         name : "Gambler's Fallacy",
-        recipe : [{ore:"❌", amt:2000000},{ore:"📺", amt:35000000},{ore:"🔼", amt:4850},{ore:"⏪", amt:1400},{ore:"✴️", amt:3},{ore:"📙", amt:20},{ore:"🛡️", amt:20},{ore:"🪃", amt:10},{ore:"🪓", amt:3},],
+        recipe : [{ore:"❌", amt:200000},{ore:"📺", amt:3500000},{ore:"🔼", amt:485},{ore:"⏪", amt:140},{ore:"✴️", amt:1},{ore:"📙", amt:2},{ore:"🛡️", amt:2},{ore:"🪃", amt:1},{ore:"🪓", amt:1},],
         active : []
     },
     "pickaxe21" : {
         name : "Exponential Centrifuge",
-        recipe : [{ore:"☁️", amt:37500000},{ore:"🚪", amt:37500000},{ore:"🔃", amt:2160000},{ore:"⏏️", amt:70},{ore:"📘", amt:50},{ore:"🔑", amt:20},{ore:"🌨️", amt:10},{ore:"🖇️", amt:10},{ore:"⛈️", amt:3},],
+        recipe : [{ore:"☁️", amt:3750000},{ore:"🚪", amt:3750000},{ore:"🔃", amt:216000},{ore:"⏏️", amt:7},{ore:"📘", amt:5},{ore:"🔑", amt:2},{ore:"🌨️", amt:1},{ore:"🖇️", amt:1},{ore:"⛈️", amt:1},],
         active : []
     },
     "pickaxe22" : {
@@ -228,17 +228,17 @@ const recipes = {
     },
     "gear6" : {
         name : "Haste II Beacon",
-        recipe : [{ore:"🌵", amt:350000000},{ore:"⚱️", amt:300},{ore:"🗡️", amt:270},{ore:"🎀", amt:75},{ore:"🔆", amt:35},{ore:"⭐", amt:35},{ore:"💥", amt:7},{ore:"🪐", amt:3},],
+        recipe : [{ore:"🌵", amt:3500000},{ore:"⚱️", amt:30},{ore:"🗡️", amt:27},{ore:"🎀", amt:7},{ore:"🔆", amt:4},{ore:"⭐", amt:4},{ore:"💥", amt:1},{ore:"🪐", amt:1},],
         active : [0.9, 1, 1.2]
     },
     "gear7" : {
         name : "Energy Siphoner",
-        recipe : [{ore:"🌫️", amt:25000000},{ore:"🟥", amt:1000000},{ore:"🧧", amt:20500},{ore:"🔺", amt:100},{ore:"🎭", amt:5},{ore:"🎴", amt:3},{ore:"🎨", amt:1},{ore:"🕋", amt:1},],
+        recipe : [{ore:"🌫️", amt:2500000},{ore:"🟥", amt:100000},{ore:"🧧", amt:2050},{ore:"🔺", amt:10},{ore:"🎭", amt:1},{ore:"🎴", amt:1},{ore:"🎨", amt:1},{ore:"🕋", amt:1},],
         active : [0.9, 1, 1.2]
     },
     "gear8" : {
         name : "Sugar Rush",
-        recipe : [{ore:"☢️", amt:40000000},{ore:"⬛", amt:6500},{ore:"🔲", amt:700},{ore:"🔶", amt:100},{ore:"🧪", amt:10},{ore:"⚗️", amt:5},{ore:"⏹️", amt:3},{ore:"🔳", amt:1}],
+        recipe : [{ore:"☢️", amt:4000000},{ore:"⬛", amt:650},{ore:"🔲", amt:70},{ore:"🔶", amt:10},{ore:"🧪", amt:1},{ore:"⚗️", amt:1},{ore:"⏹️", amt:1},{ore:"🔳", amt:1}],
         active : [0.9, 1, 1.2]
     },
     "gear9" : {
@@ -248,37 +248,37 @@ const recipes = {
     },
     "gear10" : {
         name : "Logical Randomiser",
-        recipe : [{ore:"🌐", amt:2500000},{ore:"🔄", amt:18500},{ore:"🔀", amt:6500},{ore:"➡️", amt:325},{ore:"⏫", amt:130},{ore:"⏏️", amt:10},{ore:"📕", amt:10},{ore:"📙", amt:10},{ore:"💻", amt:1},],
+        recipe : [{ore:"🌐", amt:250000},{ore:"🔄", amt:1850},{ore:"🔀", amt:650},{ore:"➡️", amt:32},{ore:"⏫", amt:13},{ore:"⏏️", amt:1},{ore:"📕", amt:1},{ore:"📙", amt:1},{ore:"💻", amt:1},],
         active : [0.9, 1, 1.2, 2]
     },
     "gear11" : {
         name : "Storm Sneakers",
-        recipe : [{ore:"☁️", amt:5500000},{ore:"🔁", amt:25000},{ore:"↘️", amt:1750},{ore:"⏪", amt:140},{ore:"⏯️", amt:50},{ore:"📗", amt:30},{ore:"📘", amt:20},{ore:"🌧️", amt:3},{ore:"🌥️", amt:1},],
+        recipe : [{ore:"☁️", amt:550000},{ore:"🔁", amt:2500},{ore:"↘️", amt:175},{ore:"⏪", amt:14},{ore:"⏯️", amt:5},{ore:"📗", amt:3},{ore:"📘", amt:2},{ore:"🌧️", amt:1},{ore:"🌥️", amt:1},],
         active : [0.9, 1, 1.2, 2]
     },
     "gear12" : {
         name : "Artifice Annihilator",
-        recipe : [{ore:"🚪", amt:8750000},{ore:"⤴️", amt:17500},{ore:"⬅️", amt:10000},{ore:"⏬", amt:350},{ore:"⏏️", amt:45},{ore:"🔒", amt:4},{ore:"🔑", amt:3},{ore:"🖇️", amt:1},],
+        recipe : [{ore:"🚪", amt:875000},{ore:"⤴️", amt:1750},{ore:"⬅️", amt:1000},{ore:"⏬", amt:35},{ore:"⏏️", amt:5},{ore:"🔒", amt:1},{ore:"🔑", amt:1},{ore:"🖇️", amt:1},],
         active : [0.9, 1, 1.2, 2]
     },
     "gear13" : {
         name : "Repurposed Replicator",
-        recipe : [{ore:"🌐", amt:15000000},{ore:"🔃", amt:317500},{ore:"⤴️", amt:15000},{ore:"➡️", amt:2925},{ore:"⏺️", amt:325},{ore:"💻", amt:15},{ore:"🖱️", amt:5},],
+        recipe : [{ore:"🌐", amt:1500000},{ore:"🔃", amt:31750},{ore:"⤴️", amt:150},{ore:"➡️", amt:292},{ore:"⏺️", amt:32},{ore:"💻", amt:2},{ore:"🖱️", amt:1},],
         active : [0.9, 1, 1.2, 2]
     },
     "gear14" : {
         name : "Cavern Capacitator",
-        recipe : [{ore:"♟️", amt:22500000},{ore:"🔂", amt:280000},{ore:"↩️", amt:57500},{ore:"▶️", amt:450},{ore:"✏️", amt:10},{ore:"🧠", amt:6},{ore:"📖", amt:5},{ore:"📐", amt:2},{ore:"📚", amt:2},],
+        recipe : [{ore:"♟️", amt:2250000},{ore:"🔂", amt:28000},{ore:"↩️", amt:5750},{ore:"▶️", amt:45},{ore:"✏️", amt:1},{ore:"🧠", amt:1},{ore:"📖", amt:1},{ore:"📐", amt:1},{ore:"📚", amt:1},],
         active : [0.9, 1, 1.2, 2]
     },
     "gear15" : {
         name : "High Powered Vacuum",
-        recipe : [{ore:"☁️", amt:6000000},{ore:"📺", amt:6000000},{ore:"🚪", amt:6000000},{ore:"🌐", amt:6000000},{ore:"♟️", amt:6000000},{ore:"🔄", amt:690000},{ore:"⬆️", amt:49750},{ore:"◀️", amt:6200},{ore:"⏺️", amt:1400},{ore:"📗", amt:60},{ore:"📕", amt:50},{ore:"📙", amt:40},{ore:"📘", amt:30},{ore:"🛡️", amt:15},],
+        recipe : [{ore:"☁️", amt:600000},{ore:"📺", amt:600000},{ore:"🚪", amt:600000},{ore:"🌐", amt:600000},{ore:"♟️", amt:600000},{ore:"🔄", amt:69000},{ore:"⬆️", amt:4975},{ore:"◀️", amt:620},{ore:"⏺️", amt:140},{ore:"📗", amt:6},{ore:"📕", amt:5},{ore:"📙", amt:4},{ore:"📘", amt:3},{ore:"🛡️", amt:2},],
         active : [0.9, 1, 1.2, 2]
     },
     "gear16" : {
         name : "Unlocked Speedcap",
-        recipe : [{ore:"🌐", amt:60000000},{ore:"➡️", amt:19650},{ore:"⏩", amt:3250},{ore:"⏭️", amt:2500},{ore:"▶️", amt:915},{ore:"🖱️", amt:30},{ore:"🍆", amt:5},{ore:"💔", amt:2},],
+        recipe : [{ore:"🌐", amt:6000000},{ore:"➡️", amt:1965},{ore:"⏩", amt:325},{ore:"⏭️", amt:250},{ore:"▶️", amt:91},{ore:"🖱️", amt:3},{ore:"🍆", amt:1},{ore:"💔", amt:1},],
         active : [0.9, 1, 1.2, 2]
     },
     "gear17" : {
